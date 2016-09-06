@@ -1,2 +1,2 @@
 test 2 changed content v6
-rebase change 1
+rebase change 2
